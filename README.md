@@ -1,10 +1,10 @@
-# 🚀 Influencer Marketing ROI Engine
+# Influencer Marketing ROI Engine
 
 > A full-stack Excel analytics dashboard for evaluating influencer campaign performance, identifying high-ROI creators, and optimizing marketing budget allocation.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project analyzes influencer marketing campaigns across Instagram, TikTok, and YouTube using key performance metrics — including CTR, Conversion Rate, CAC, and ROAS — to surface which creators and platforms deliver the strongest return on investment.
 
@@ -37,13 +37,13 @@ Built entirely in **Microsoft Excel for the Web**, it demonstrates end-to-end ma
 
 ---
 
-## 🎯 Business Goal
+## Business Goal
 
 Identify which creators and platforms generate the highest return so marketing budgets can be shifted toward campaigns with the strongest conversion efficiency and lowest customer acquisition cost.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 The Dashboard sheet includes:
 
@@ -54,7 +54,7 @@ The Dashboard sheet includes:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Instagram micro-influencers (25K–70K followers)** consistently outperform larger creators on ROAS and CAC, driven by higher engagement rates in the 5–7% range.
 2. **YouTube creators** show the highest raw reach but the lowest ROAS — better suited for brand awareness campaigns than direct-response objectives.
@@ -62,7 +62,7 @@ The Dashboard sheet includes:
 
 ---
 
-## 📂 Workbook Structure
+## Workbook Structure
 
 ```
 Influencer_Marketing_ROI_Engine.xlsx
@@ -74,7 +74,7 @@ Influencer_Marketing_ROI_Engine.xlsx
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -85,7 +85,7 @@ Influencer_Marketing_ROI_Engine.xlsx
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download `Influencer_Marketing_ROI_Engine.xlsx`
 2. Open in **Excel for the Web** or **Excel for Mac**
@@ -95,7 +95,7 @@ Influencer_Marketing_ROI_Engine.xlsx
 
 ---
 
-## 🏷️ Skills Demonstrated
+## Skills Demonstrated
 
 `Marketing Analytics` · `KPI Modeling` · `Excel Dashboarding` · `CAC / ROAS` · `Data Visualization` · `Budget Optimization` · `Influencer Performance Analysis`
 
